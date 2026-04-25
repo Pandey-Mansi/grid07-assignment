@@ -198,5 +198,6 @@ Possible production upgrades:
 
 ---
 
+Note: If GitHub notebook preview shows rendering issues, please refer to assignment.py or Assignment_Output.pdf for full runnable submission.
 ## Author
 Mansi Pandey
